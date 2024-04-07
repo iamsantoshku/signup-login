@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iamsantoshku/signup-login.git/static/css/main.fb01a831.css",
+    "main.js": "/iamsantoshku/signup-login.git/static/js/main.9d9cd675.js",
+    "static/js/453.3c4b86b9.chunk.js": "/iamsantoshku/signup-login.git/static/js/453.3c4b86b9.chunk.js",
+    "index.html": "/iamsantoshku/signup-login.git/index.html",
+    "main.fb01a831.css.map": "/iamsantoshku/signup-login.git/static/css/main.fb01a831.css.map",
+    "main.9d9cd675.js.map": "/iamsantoshku/signup-login.git/static/js/main.9d9cd675.js.map",
+    "453.3c4b86b9.chunk.js.map": "/iamsantoshku/signup-login.git/static/js/453.3c4b86b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb01a831.css",
+    "static/js/main.9d9cd675.js"
+  ]
+}
